@@ -1,0 +1,9 @@
+name,gender,courses,avg grade,img_url
+Udentomat,male,"[Course(('Spanish', 'ETC', 7), Course(('Mathmatics', 'ETC', 0), Course(('Physical Education', 'ETC', -3), Course(('Biology', 'ETC', 2), Course(('Spanish', 'ETC', 7)]",2.6,https://picsum.photos/200
+Gunner,female,"[Course(('Chemistry', 'ETC', 2), Course(('French', 'ETC', 0), Course(('Spanish', 'ETC', 10), Course(('Mathmatics', 'ETC', 7), Course(('Mathmatics', 'ETC', -3)]",3.2,https://picsum.photos/200
+Josefine,male,"[Course(('Algebra', 'ETC', 10), Course(('Chemistry', 'ETC', 10), Course(('Spanish', 'ETC', 2), Course(('Geography', 'ETC', -3), Course(('English', 'ETC', 2)]",4.2,https://picsum.photos/200
+Tobias,female,"[Course(('English', 'ETC', 2), Course(('French', 'ETC', 2), Course(('Philosophy', 'ETC', 0), Course(('Philosophy', 'ETC', 4), Course(('German', 'ETC', 0)]",1.6,https://picsum.photos/200
+Arne,female,"[Course(('Biology', 'ETC', 0), Course(('Physics', 'ETC', 0), Course(('Spanish', 'ETC', 10), Course(('Mathmatics', 'ETC', 4), Course(('Mathmatics', 'ETC', 0)]",2.8,https://picsum.photos/200
+Morten,female,"[Course(('Latin', 'ETC', 10), Course(('Biology', 'ETC', 2), Course(('Philosophy', 'ETC', 4), Course(('Computer Class', 'ETC', -3), Course(('Algebra', 'ETC', 12)]",5.0,https://picsum.photos/200
+Jeff,male,"[Course(('Physical Education', 'ETC', -3), Course(('Algebra', 'ETC', -3), Course(('Physical Education', 'ETC', 0), Course(('French', 'ETC', 10), Course(('German', 'ETC', 4)]",1.6,https://picsum.photos/200
+Anna,male,"[Course(('Physics', 'ETC', 10), Course(('Algebra', 'ETC', -3), Course(('Physical Education', 'ETC', 12), Course(('Philosophy', 'ETC', -3), Course(('Algebra', 'ETC', 12)]",5.6,https://picsum.photos/200

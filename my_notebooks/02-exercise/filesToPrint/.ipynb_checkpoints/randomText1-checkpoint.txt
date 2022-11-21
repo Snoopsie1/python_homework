@@ -1,0 +1,2 @@
+Hello my dood, this is first line in first file
+You won't get to see this line tho ;)))
